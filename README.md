@@ -1,10 +1,9 @@
 # Beat Driver
 
-A side project built by two people in a few months to show off VR running
+A side project built to show off VR running
 inside a webpage. Built with HTML, JavaScript, and A-Frame.
 
-Song maps are sourced from beatsaver.com with expressed support from the Beat
-Saver community admins. Supports all browsers and headsets (incl. Quest).
+Supports all browsers and headsets (incl. Quest).
 
 [**Try the site out now in your browser!**](https://beatdriver.netlify.app/)
 
